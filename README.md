@@ -2,7 +2,7 @@
 
 ### AI&DS Student at Shiv Nadar University Chennai  
 
-<img align="right" width="370" height="290" src="https://komarev.com/ghpvc/?username=redoxangel&label=Profile%20views&color=0e75b6&style=flat" alt="redoxangel" />
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" />
 
 - 🔭 Here's my [portfolio](https://swaathi-portfolio.vercel.app/)  
 - 🌱 I’m currently learning Full Stack Web Development  
