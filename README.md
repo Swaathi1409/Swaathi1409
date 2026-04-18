@@ -16,6 +16,7 @@
 
 ### 💻 I Code In  
 <p align="left">
+ <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -25,6 +26,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</div>
 </p>  
 
 ---
