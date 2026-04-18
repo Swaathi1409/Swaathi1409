@@ -16,17 +16,21 @@
 
 ### 💻 I Code In  
 
-<p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</p>
+### 💻 I Code In  
+
+<table>
+  <tr>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/python.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></td>
+    <td><img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/></td>
+  </tr>
+</table>
 
 ---
 
